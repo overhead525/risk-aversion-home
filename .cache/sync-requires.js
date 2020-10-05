@@ -9,6 +9,7 @@ exports.components = {
   "component---src-pages-404-tsx": hot(preferDefault(require("/home/theelementace/risk-aversion-home/src/pages/404.tsx"))),
   "component---src-pages-blog-posts-tsx": hot(preferDefault(require("/home/theelementace/risk-aversion-home/src/pages/blogPosts.tsx"))),
   "component---src-pages-index-tsx": hot(preferDefault(require("/home/theelementace/risk-aversion-home/src/pages/index.tsx"))),
-  "component---src-pages-page-2-tsx": hot(preferDefault(require("/home/theelementace/risk-aversion-home/src/pages/page-2.tsx")))
+  "component---src-pages-page-2-tsx": hot(preferDefault(require("/home/theelementace/risk-aversion-home/src/pages/page-2.tsx"))),
+  "component---src-pages-why-build-this-tsx": hot(preferDefault(require("/home/theelementace/risk-aversion-home/src/pages/why-build-this.tsx")))
 }
 
